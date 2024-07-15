@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "hangout()"
+rootProject.name = "Hangout"
 include ':app'

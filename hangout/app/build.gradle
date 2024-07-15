@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.leelluchpineda.hangout'
+    namespace 'com.example.hangout'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.leelluchpineda.hangout"
+        applicationId "com.example.hangout"
         minSdk 24
         targetSdk 34
         versionCode 1

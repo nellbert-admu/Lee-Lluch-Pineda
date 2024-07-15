@@ -1,4 +1,4 @@
-package com.example.leelluchpineda.hangout;
+package com.example.hangout;
 
 import org.junit.Test;
 
